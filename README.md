@@ -25,7 +25,7 @@
 
 ## 🚀 Demo
 
-🌐 **[Ver demo en vivo](https://David-Andino.io/github-dashboard/)**
+🌐 **[Ver demo en vivo](https://david-andino.github.io/github-dashboard/)**
 
 > Reemplaza la URL con tu propia instancia desplegada en GitHub Pages.
 
