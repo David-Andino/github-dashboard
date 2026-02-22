@@ -277,7 +277,7 @@ Con un token, puedes analizar decenas de perfiles sin problema.
 
 ## 📄 Licencia
 
-MIT © 2024 — Libre para uso personal y comercial.
+David Andino © 2026 — Libre para uso personal.
 
 ---
 
